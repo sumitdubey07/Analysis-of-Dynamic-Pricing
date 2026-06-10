@@ -201,7 +201,7 @@ Synthetic dataset generated to reflect realistic ride-hailing patterns in Indian
 
 Built by **[Your Name]** — Data Analyst & ML Developer specializing in Python, statistics, and data-driven insights.
 
-🔗 [GitHub](https://github.com/<your-username>) • [LinkedIn](https://linkedin.com/in/<your-profile>)
+🔗 [GitHub](https://github.com/sumitdubey07) • [LinkedIn](https://linkedin.com/in/sumit-dubey-07s)
 
 ---
 
